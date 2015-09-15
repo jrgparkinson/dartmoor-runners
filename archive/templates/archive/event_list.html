@@ -1,0 +1,23 @@
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th width="150px">Date</th>
+        <th width="150px">Location</th>
+        <th>Notes</th>
+        <th></th>
+    </tr>
+    </thead>
+    {% for event in events %}
+    <tbody>
+    <tr>
+        <td width="150px">{{ event.date }}</td>
+        <td width="150px">{{ event.location }}</td>
+        <td>{{ event.notes }}</td>
+        <td><a href="/archive/event/{{event.id}}"><button type="button" class="btn btn-sm btn-default">View Results</button></a></td>
+
+    </tr>
+    </tbody>
+    {% endfor %}
+
+
+</table>

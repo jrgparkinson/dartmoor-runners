@@ -1,0 +1,29 @@
+{% extends "archive/base.html" %}
+{% block title %}{%if runner%}{{runner.firstname}} {{runner.surname}}{%endif%}{% endblock %}
+
+{% block content %}
+
+{% if runner %}
+        <h1>{{runner.firstname}} {{runner.surname}}</h1>
+        <h2>Results</h2>
+        <ul>
+            {% for result in results %}
+            <li>{{result |safe}}</li>
+            {% endfor %}
+        </ul>
+        <h2>Events planned</h2>
+        {% if events %}
+        <ul>
+            {% for event in events %}
+                <li><a href="/archive/event/{{event.id}}">{{event.date}} - {{event.location}}</a></li>
+            {% endfor %}
+        </ul>
+        {% else %}
+            No events planned
+        {% endif %}
+
+{% else %}
+    <p>No runner found for this id.</p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,54 @@
+{% extends "archive/base.html" %}
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <h1>Dartmoor Runners Results Archive</h1>
+    <p>This is a collection of results from Dartmoor Runners events.</p>
+    <p>
+        <a href="/archive/events/"><button type="button" class="btn btn-lg btn-default">View Events</button></a>
+        <a href="/archive/series/"><button type="button" class="btn btn-lg btn-default">View Series</button></a>
+        <a href="/archive/runners/"><button type="button" class="btn btn-lg btn-default">View Runners</button></a>
+    </p>
+
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+
+
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Missing data</h3>
+            </div>
+
+            <div class="panel-body">
+                The archive is not complete! Please have a look at the <a href="/archive/missing_data/">events which are incompletely recorded</a> and see if you can help fill in the gaps.
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Statistics</h3>
+            </div>
+
+            <div class="panel-body">
+                Within the archive there are... <br>
+                <b>{{ stats.num_series }} <a href="/archive/series">series</a></b> ( <b>{{stats.num_summer_series}} summer</b> and <b>{{ stats.num_winter_series }} winter</b>) within which there have been<br>
+                <b>{{ stats.num_events }} <a href="/archive/events">events</a></b>, which have been attended by <br>
+                <b>{{ stats.num_runners }}</b> different <b><a href="/archive/runners">runners</a></b>. <br>
+                In total, there have been <b>{{ stats.num_results }} individual runs</b> <br>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+{% endblock %}

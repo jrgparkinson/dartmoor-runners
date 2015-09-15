@@ -1,0 +1,44 @@
+{% extends "archive/base.html" %}
+
+{% block title %}Series {{ series.number }} overall results{% endblock %}
+
+{% block content %}
+        <div class="page-header">
+        <h1>{{ series.hyperlink_name |safe}} - overall results</h1>
+            <p>Organisers receive the points equal to the average of their best three other results.</p>
+            <p>The overall score is the sum of a runner's best three scores</p>
+      </div>
+
+
+
+        <table class="table table-striped">
+    <thead>
+    <tr>
+        <th width="150px">Runner</th>
+        {% for event in events %}
+        <th width="150px"><a href="{{event.link}}">{{ event.location }}</a></th>
+        {% endfor %}
+        <th>Overall (top 3 to count)</th>
+    </tr>
+    </thead>
+
+    <tbody>
+
+    {% for series_result in series_results %}
+    <tr>
+        <td width="150px">{{ series_result.0.format_name |safe}}</td>
+        {% for result in series_result %}
+        {% if not forloop.first %}
+        <td width="80px">{{ result }}</td>
+        {% endif %}
+        {% endfor %}
+
+    </tr>
+    {% endfor %}
+    </tbody>
+
+
+
+</table>
+
+{% endblock %}

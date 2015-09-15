@@ -1,0 +1,17 @@
+{% extends "archive/tools.html" %}
+
+        {% block tool %}
+
+        {% if success_message %}
+        <div class="alert alert-success" role="alert">
+        {{ success_message }}
+      </div>
+        {% endif %}
+
+        {% if failed_message %}
+        <div class="alert alert-danger" role="alert">
+            {{ failed_message }}
+            </div>
+        {% endif %}
+
+        {% endblock %}

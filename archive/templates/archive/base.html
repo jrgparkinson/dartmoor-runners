@@ -1,0 +1,70 @@
+{% load staticfiles %}
+
+
+<!DOCTYPE html>
+
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    {# Load the tag library #}
+    {% load bootstrap3 %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
+    {# Load CSS and JavaScript #}
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+
+
+    {# Display django.contrib.messages as Bootstrap alerts #}
+    {% bootstrap_messages %}
+
+    <link rel="stylesheet" href='{% static "archive/style.css" %}' />
+    {% block head %}{%endblock%}
+    <title>{% block title %}{% endblock %} - Dartmoor Runners Archive</title>
+</head>
+<body role="document">
+<!-- Fixed navbar -->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/archive/">Home</a></li>
+                <li><a href="/archive/series/">Series</a></li>
+                <li><a href="/archive/events/">Events</a></li>
+                <li><a href="/archive/runners/">Runners</a></li>
+                {% if user.is_superuser %}
+                <li><a href="/archive/tools/">Tools</a></li>
+                <li><a href="/admin/">Admin</a></li>
+                {% endif %}
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+<div class="container theme-showcase" role="main">
+    {% block content %}{% endblock %}
+</div>
+
+{% block extra_content%}{% endblock %}
+
+<footer class="footer">
+    <div class="container">
+        <p class="text-muted">    The content on this website has been extracted from various sources by a computer program, and has not been checked manually.
+            If you spot any errors or omissions please contact <a href="mailto:jamie.parkinson@gmail.com">Jamie Parkinson</a>. Thank you!
+        </p>
+    </div>
+</footer>
+</body>
+</html>
