@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Current Series
+title: Winter Series 2023
 permalink: /Winter Series 2023/
 ---
-
-# Winter Series 2023
  
 There will be 7 runs for the 2023 Winter Series, with best 4 runs to score.
 
