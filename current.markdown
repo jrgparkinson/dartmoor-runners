@@ -13,7 +13,7 @@ There will be 7 runs for the 2023 Winter Series, with best 4 runs to score.
 | 26 November | High Down                  | Rob and Jim                    |
 | 17 December | Norsworthy Bridge GR568694 | Becky Stedham and Jake Willis  |
 | 22 January  | Holming Beam               | Lindsey Arrick and Alice Inman |
-| 18 February | Shapely Common  GR 698835  | Richard Best and Jo Meek       | 
+| 18 February | Shapely Common  GR 698835  | Richard Best and Jo Meek       |
 | 10 March    | Score event Sheepstor      | Sarah Jones and Paul Ames      |
  
 # We need you!
