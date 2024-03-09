@@ -4,54 +4,7 @@
   {%- include head.html -%}
 
   <link rel="icon" type="image/x-icon" href="{{ "/assets/favicon.png" | relative_url }}">
-
-  <style>
-    .wrapper {
-      max-width: 70%;
-      @media screen and (max-width: 800px) {
-        max-width: 95%;
-      }
-    }
-
-    a.site-title {
-      background-image: url("{{ "/assets/logo75x75.png" | relative_url }}");
-      height: 80px;
-      background-position: left;
-      background-repeat: no-repeat;
-      background-size: 75px; 
-      padding-left:80px;
-      color:darkblue;
-    }
-
-    .site-nav, a.site-title {
-      line-height: 80px;
-    }
-    
-    .site-header {
-      background-color: #e8f1ff;
-    }
-
-    img.side {
-      margin-bottom: 10px;
-    }
-
-    .img-bar {
-      float:right;
-      width:28%;
-      @media screen and (max-width: 550px) {
-        width:100%;
-      }
-    }
-
-    .main-text {
-      width: 70%;
-      float:left;
-      @media screen and (max-width: 550px) {
-        width:100%;
-      }
-    }
-  </style>
-
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles.css" | relative_url }}" /> 
   <body>
 
     {%- include header.html -%}
