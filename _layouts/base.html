@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper" style="width: 65%; float:left">
+        ...
+        {{ content }}
+      </div>
+
+    <div style="float:right ; width:30%">
+        <img style="margin-bottom:10px;" src="assets/winter-2015-small-300x225.jpg" />
+        
+        <img style="margin-bottom:10px;" src="assets/ControlDog-300x225.jpg" />
+        
+        <img style="margin-bottom:10px;" src="assets/Moorland-runner-cropped-300x212.jpg" />
+        
+        <img style="margin-bottom:10px;" src="assets/XmasBash2017Med-300x200.jpg" />
+    </div>
+    
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
