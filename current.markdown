@@ -17,8 +17,9 @@ There will be 7 runs for the 2023 Winter Series, with best 4 runs to score.
 | 10 March    | Score event Sheepstor      | Sarah Jones and Paul Ames      |
  
 # We need you!
-Please get in touch with James Jackson (jim7205319@gmail.com) if you would like to organise a run for the series.
+Please get in touch with [James Jackson](mailto:jim7205319@gmail.com) if you would like to organise a run for the series.
 
-# Results
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYnm0bE-qpBHfJDFMXvUG8omQv7GLMZSWEzMMyuzjVOGXKQXL3v6uJf6kYjp5nQXQrX0M8JKcEED9f/pubhtml?widget=true&amp;headers=false" width="600" height="600"></iframe></p>
-<p>Open results spreadsheet in <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYnm0bE-qpBHfJDFMXvUG8omQv7GLMZSWEzMMyuzjVOGXKQXL3v6uJf6kYjp5nQXQrX0M8JKcEED9f/pubhtml" target="_blank" rel="noopener noreferrer">full screen</a></p>
+# Results (open in [full screen](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYnm0bE-qpBHfJDFMXvUG8omQv7GLMZSWEzMMyuzjVOGXKQXL3v6uJf6kYjp5nQXQrX0M8JKcEED9f/pubhtml))
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYnm0bE-qpBHfJDFMXvUG8omQv7GLMZSWEzMMyuzjVOGXKQXL3v6uJf6kYjp5nQXQrX0M8JKcEED9f/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe>
+
