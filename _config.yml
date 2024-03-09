@@ -26,6 +26,7 @@ baseurl: "/dartmoor-runners" # the subpath of your site, e.g. /blog
 url: "hhttps://jrgparkinson.github.io/dartmoor-runners/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jrgparkinson
+facebook_username: DartmoorRunners
 
 # Build settings
 theme: minima

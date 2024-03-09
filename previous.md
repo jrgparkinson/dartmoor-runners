@@ -6,7 +6,7 @@ permalink: /Previous Series/
 
 {% for series in site.previous_series reversed %}
   <h3>
-    <a href="{{ series.url }}">
+    <a href="{{ series.url | relative_url }}">
       {{ series.title }}
     </a>
   </h3>
