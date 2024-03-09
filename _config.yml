@@ -24,7 +24,7 @@ author: Jamie Parkinson
 # email: jamie.parkinson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An informal group that exists solely because we enjoy running in open spaces, off the beaten track.
-baseurl: "/dartmoor-runners" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "hhttps://jrgparkinson.github.io/dartmoor-runners/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jrgparkinson/dartmoor-runners
