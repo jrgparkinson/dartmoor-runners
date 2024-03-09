@@ -23,7 +23,7 @@ title: Dartmoor Runners
 description: >- # this means to ignore newlines until "baseurl:"
   An informal group that exists solely because we enjoy running in open spaces, off the beaten track.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.dartmoorrunners.co.uk " # the base hostname & protocol for your site, e.g. http://example.com
+url: "hhttps://jrgparkinson.github.io/dartmoor-runners/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jrgparkinson
 
