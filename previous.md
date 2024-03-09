@@ -4,7 +4,7 @@ title: Previous Series
 permalink: /Previous Series/
 ---
 
-{% for series in site.previous_series %}
+{% for series in site.previous_series reversed %}
   <h3>
     <a href="{{ series.url }}">
       {{ series.title }}
