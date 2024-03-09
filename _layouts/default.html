@@ -3,6 +3,8 @@
 
   {%- include head.html -%}
 
+  <link rel="icon" type="image/x-icon" href="{{ "/assets/favicon.png" | relative_url }}">
+
   <style>
     .wrapper {
       max-width: 70%;
@@ -12,13 +14,20 @@
     }
 
     a.site-title {
-      background-image: url("assets/cropped-dartmoorrunnerslogo_normal.png");
+      background-image: url("assets/logo75x75.png");
       height: 80px;
       background-position: left;
       background-repeat: no-repeat;
       background-size: 75px; 
       padding-left:80px;
+    }
+
+    .site-nav, a.site-title {
       line-height: 80px;
+    }
+    
+    .site-header {
+      background-color: #e8f1ff;
     }
   </style>
 
