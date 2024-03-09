@@ -1,0 +1,166 @@
+Feb 17 22:05:18 10.71.56.0 tmp111497855-9293 Connection from 10.71.56.0 port 40050 on 82.165.88.184 port 22 rdomain ""
+Feb 17 22:05:18 10.71.56.0 tmp111497855-9293 Accepted password for tmp111497855-9293 from 10.71.56.0 port 40050 ssh2
+Feb 17 22:05:18 10.71.56.0 tmp111497855-9293 Starting session: subsystem 'sftp' for tmp111497855-9293 from 10.71.56.0 port 40050 id 0
+Feb 17 22:05:18 10.71.56.0 tmp111497855-9293 session opened for local user tmp111497855-9293 from [10.71.56.0]
+Feb 17 22:05:26 10.71.56.0 tmp111497855-9293 Connection from 10.71.56.0 port 40086 on 82.165.88.184 port 22 rdomain ""
+Feb 17 22:05:26 10.71.56.0 tmp111497855-9293 Accepted password for tmp111497855-9293 from 10.71.56.0 port 40086 ssh2
+Feb 17 22:05:27 10.71.56.0 tmp111497855-9293 mkdir name "/varsity" mode 0777
+Feb 17 22:05:27 10.71.56.0 tmp111497855-9293 [10.71.56.0|mkdir|0|0|511|0|0|2f76617273697479|]
+Feb 17 22:05:43 10.71.56.0 tmp111497855-9293 open "/varsity/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 17 22:05:43 10.71.56.0 tmp111497855-9293 close "/varsity/index.html" bytes read 0 written 211051
+Feb 17 22:05:43 10.71.56.0 tmp111497855-9293 [10.71.56.0|put|0|211051|0|0|0|2f766172736974792f696e6465782e68746d6c|]
+Feb 17 22:05:44 10.71.56.0 tmp111497855-9293 open "/varsity/index_clubresults.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 17 22:05:44 10.71.56.0 tmp111497855-9293 close "/varsity/index_clubresults.html" bytes read 0 written 5774
+Feb 17 22:05:44 10.71.56.0 tmp111497855-9293 [10.71.56.0|put|0|5774|0|0|0|2f766172736974792f696e6465785f636c7562726573756c74732e68746d6c|]
+Feb 17 22:05:44 10.71.56.0 tmp111497855-9293 open "/varsity/index_clubresults_mens_varsity_match_teams.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 17 22:05:44 10.71.56.0 tmp111497855-9293 close "/varsity/index_clubresults_mens_varsity_match_teams.html" bytes read 0 written 4974
+Feb 17 22:05:44 10.71.56.0 tmp111497855-9293 [10.71.56.0|put|0|4974|0|0|0|2f766172736974792f696e6465785f636c7562726573756c74735f6d656e735f766172736974795f6d617463685f7465616d732e68746d6c|]
+Feb 17 22:05:45 10.71.56.0 tmp111497855-9293 open "/varsity/index_clubresults_womens_varsity_match_teams.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 17 22:05:45 10.71.56.0 tmp111497855-9293 close "/varsity/index_clubresults_womens_varsity_match_teams.html" bytes read 0 written 4928
+Feb 17 22:05:45 10.71.56.0 tmp111497855-9293 [10.71.56.0|put|0|4928|0|0|0|2f766172736974792f696e6465785f636c7562726573756c74735f776f6d656e735f766172736974795f6d617463685f7465616d732e68746d6c|]
+Feb 17 22:10:27 10.71.56.0 tmp111497855-9293 Connection closed by 10.71.56.0 port 40086
+Feb 17 22:10:45 10.71.56.0 tmp111497855-9293 Connection closed by 10.71.56.0 port 40050
+Feb 17 22:10:45 10.71.56.0 tmp111497855-9293 session closed for local user tmp111497855-9293 from [10.71.56.0]
+Feb 18 16:50:59 10.71.57.0 tmp111497855-912 Connection from 10.71.57.0 port 64748 on 82.165.88.184 port 22 rdomain ""
+Feb 18 16:50:59 10.71.57.0 tmp111497855-912 Accepted password for tmp111497855-912 from 10.71.57.0 port 64748 ssh2
+Feb 18 16:50:59 10.71.57.0 tmp111497855-912 Starting session: subsystem 'sftp' for tmp111497855-912 from 10.71.57.0 port 64748 id 0
+Feb 18 16:50:59 10.71.57.0 tmp111497855-912 session opened for local user tmp111497855-912 from [10.71.57.0]
+Feb 18 16:51:10 10.71.57.0 tmp111497855-912 Connection from 10.71.57.0 port 64762 on 82.165.88.184 port 22 rdomain ""
+Feb 18 16:51:10 10.71.57.0 tmp111497855-912 Accepted password for tmp111497855-912 from 10.71.57.0 port 64762 ssh2
+Feb 18 16:51:11 10.71.57.0 tmp111497855-912 mkdir name "/varsity/relay" mode 0777
+Feb 18 16:51:11 10.71.57.0 tmp111497855-912 [10.71.57.0|mkdir|0|0|511|0|0|2f766172736974792f72656c6179|]
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 open "/varsity/relay/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 close "/varsity/relay/index.html" bytes read 0 written 14149
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 [10.71.57.0|put|0|14149|0|0|0|2f766172736974792f72656c61792f696e6465782e68746d6c|]
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 open "/varsity/relay/index_results.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 close "/varsity/relay/index_results.html" bytes read 0 written 91656
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 [10.71.57.0|put|0|91656|0|0|0|2f766172736974792f72656c61792f696e6465785f726573756c74732e68746d6c|]
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 open "/varsity/relay/relayresults_RG.csv" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 close "/varsity/relay/relayresults_RG.csv" bytes read 0 written 12073
+Feb 18 16:51:26 10.71.57.0 tmp111497855-912 [10.71.57.0|put|0|12073|0|0|0|2f766172736974792f72656c61792f72656c6179726573756c74735f52472e637376|]
+Feb 18 16:56:11 10.71.57.0 tmp111497855-912 Connection closed by 10.71.57.0 port 64762
+Feb 18 16:56:26 10.71.57.0 tmp111497855-912 Connection closed by 10.71.57.0 port 64748
+Feb 18 16:56:26 10.71.57.0 tmp111497855-912 session closed for local user tmp111497855-912 from [10.71.57.0]
+Mar  9 20:56:06 10.71.57.0 tmp111497855-9690 Connection from 10.71.57.0 port 31348 on 82.165.88.184 port 22 rdomain ""
+Mar  9 20:56:06 10.71.57.0 tmp111497855-9690 Accepted password for tmp111497855-9690 from 10.71.57.0 port 31348 ssh2
+Mar  9 20:56:06 10.71.57.0 tmp111497855-9690 Starting session: subsystem 'sftp' for tmp111497855-9690 from 10.71.57.0 port 31348 id 0
+Mar  9 20:56:06 10.71.57.0 tmp111497855-9690 session opened for local user tmp111497855-9690 from [10.71.57.0]
+Mar  9 20:57:45 10.71.57.0 acc112613855 Connection from 10.71.57.0 port 13096 on 82.165.88.184 port 22 rdomain ""
+Mar  9 20:57:46 10.71.57.0 acc112613855 Failed publickey for acc112613855 from 10.71.57.0 port 13096 ssh2: RSA SHA256:UJHjt2u5v/VqzreL/tq5YRg6lb4EolbVo/lbfTpOUFY
+Mar  9 20:57:46 10.71.57.0 acc112613855 Accepted publickey for acc112613855 from 10.71.57.0 port 13096 ssh2: ED25519 SHA256:AZpG4NwsRFGrL5n3lM9bQeFvT1yMqmLz7OBtOCGre3A
+Mar  9 20:57:46 10.71.57.0 acc112613855 Starting session: subsystem 'sftp' for acc112613855 from 10.71.57.0 port 13096 id 0
+Mar  9 20:57:46 10.71.57.0 acc112613855 session opened for local user acc112613855 from [10.71.57.0]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/index.html" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/index.html" bytes read 5737 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|5737|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/03.html" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/03.html" bytes read 2970 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|2970|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 sent status Permission denied
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/04.html" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/04.html" bytes read 9662 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|9662|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/05.html" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/05.html" bytes read 9934 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|9934|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/06.html" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/06.html" bytes read 9638 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|9638|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/07.html" flags READ mode 0666
+Mar  9 20:58:07 10.71.57.0 acc112613855 close "/logs/traffic.html/07.html" bytes read 9934 written 0
+Mar  9 20:58:07 10.71.57.0 acc112613855 [10.71.57.0|get|0|9934|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Mar  9 20:58:07 10.71.57.0 acc112613855 open "/logs/traffic.html/08.html" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/traffic.html/08.html" bytes read 9938 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|1|9938|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/traffic.html/09.html" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/traffic.html/09.html" bytes read 9676 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|0|9676|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/traffic.html/10.html" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/traffic.html/10.html" bytes read 9940 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|0|9940|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/traffic.html/11.html" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/traffic.html/11.html" bytes read 5302 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|0|5302|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/traffic.html/02.html" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/traffic.html/02.html" bytes read 2112 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|0|2112|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/access.log.08.6" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/access.log.08.6" bytes read 84100 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|0|84100|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e36|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/.htaccess" flags READ mode 0666
+Mar  9 20:58:08 10.71.57.0 acc112613855 close "/logs/.htaccess" bytes read 268 written 0
+Mar  9 20:58:08 10.71.57.0 acc112613855 [10.71.57.0|get|0|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Mar  9 20:58:08 10.71.57.0 acc112613855 open "/logs/info.pl" flags READ mode 0666
+Mar  9 20:58:09 10.71.57.0 acc112613855 close "/logs/info.pl" bytes read 4176 written 0
+Mar  9 20:58:09 10.71.57.0 acc112613855 [10.71.57.0|get|1|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Mar  9 20:58:09 10.71.57.0 acc112613855 open "/logs/info.php5" flags READ mode 0666
+Mar  9 20:58:09 10.71.57.0 acc112613855 close "/logs/info.php5" bytes read 21 written 0
+Mar  9 20:58:09 10.71.57.0 acc112613855 [10.71.57.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Mar  9 20:58:09 10.71.57.0 acc112613855 open "/logs/info.py" flags READ mode 0666
+Mar  9 20:58:09 10.71.57.0 acc112613855 close "/logs/info.py" bytes read 6319 written 0
+Mar  9 20:58:09 10.71.57.0 acc112613855 [10.71.57.0|get|0|6319|0|0|0|2f6c6f67732f696e666f2e7079|]
+Mar  9 20:58:09 10.71.57.0 acc112613855 open "/logs/access.log.08.7" flags READ mode 0666
+Mar  9 20:58:09 10.71.57.0 acc112613855 close "/logs/access.log.08.7" bytes read 160744 written 0
+Mar  9 20:58:09 10.71.57.0 acc112613855 [10.71.57.0|get|0|160744|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e37|]
+Mar  9 20:58:09 10.71.57.0 acc112613855 open "/logs/access.log.03.5" flags READ mode 0666
+Mar  9 20:58:09 10.71.57.0 acc112613855 close "/logs/access.log.03.5" bytes read 386274 written 0
+Mar  9 20:58:09 10.71.57.0 acc112613855 [10.71.57.0|get|0|386274|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e35|]
+Mar  9 20:58:09 10.71.57.0 acc112613855 open "/logs/access.log.05.2" flags READ mode 0666
+Mar  9 20:58:09 10.71.57.0 acc112613855 close "/logs/access.log.05.2" bytes read 255386 written 0
+Mar  9 20:58:09 10.71.57.0 acc112613855 [10.71.57.0|get|0|255386|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e32|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/traffic.db" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/traffic.db" bytes read 24576 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|24576|0|0|0|2f6c6f67732f747261666669632e6462|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/last_traffic" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/last_traffic" bytes read 0 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/access.log.09.3.gz" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/access.log.09.3.gz" bytes read 25594 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|25594|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e332e677a|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/access.log.09.4.gz" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/access.log.09.4.gz" bytes read 7669 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|7669|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e342e677a|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/access.log.10.1.gz" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/access.log.10.1.gz" bytes read 31952 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|31952|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e312e677a|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/access.log.10.6" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/access.log.10.6" bytes read 175491 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|175491|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e36|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/access.log.52.7" flags READ mode 0666
+Mar  9 20:58:10 10.71.57.0 acc112613855 close "/logs/access.log.52.7" bytes read 113020 written 0
+Mar  9 20:58:10 10.71.57.0 acc112613855 [10.71.57.0|get|0|113020|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e37|]
+Mar  9 20:58:10 10.71.57.0 acc112613855 open "/logs/access.log.01.4" flags READ mode 0666
+Mar  9 20:58:11 10.71.57.0 acc112613855 close "/logs/access.log.01.4" bytes read 188726 written 0
+Mar  9 20:58:11 10.71.57.0 acc112613855 [10.71.57.0|get|1|188726|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e34|]
+Mar  9 20:58:11 10.71.57.0 acc112613855 open "/logs/access.log.03.6" flags READ mode 0666
+Mar  9 20:58:11 10.71.57.0 acc112613855 close "/logs/access.log.03.6" bytes read 268157 written 0
+Mar  9 20:58:11 10.71.57.0 acc112613855 [10.71.57.0|get|0|268157|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e36|]
+Mar  9 20:58:11 10.71.57.0 acc112613855 open "/logs/access.log.10.5.gz" flags READ mode 0666
+Mar  9 20:58:11 10.71.57.0 acc112613855 close "/logs/access.log.10.5.gz" bytes read 7575 written 0
+Mar  9 20:58:11 10.71.57.0 acc112613855 [10.71.57.0|get|0|7575|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e352e677a|]
+Mar  9 20:58:11 10.71.57.0 acc112613855 open "/logs/access.log.01.1" flags READ mode 0666
+Mar  9 20:58:11 10.71.57.0 acc112613855 close "/logs/access.log.01.1" bytes read 55941 written 0
+Mar  9 20:58:11 10.71.57.0 acc112613855 [10.71.57.0|get|0|55941|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e31|]
+Mar  9 20:58:11 10.71.57.0 acc112613855 open "/logs/access.log.01.5" flags READ mode 0666
+Mar  9 20:58:11 10.71.57.0 acc112613855 close "/logs/access.log.01.5" bytes read 200716 written 0
+Mar  9 20:58:11 10.71.57.0 acc112613855 [10.71.57.0|get|0|200716|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e35|]
+Mar  9 20:58:11 10.71.57.0 acc112613855 open "/logs/access.log.03.7" flags READ mode 0666
+Mar  9 20:58:12 10.71.57.0 acc112613855 close "/logs/access.log.03.7" bytes read 173441 written 0
+Mar  9 20:58:12 10.71.57.0 acc112613855 [10.71.57.0|get|1|173441|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e37|]
+Mar  9 20:58:12 10.71.57.0 acc112613855 open "/logs/access.log.09.6.gz" flags READ mode 0666
+Mar  9 20:58:12 10.71.57.0 acc112613855 close "/logs/access.log.09.6.gz" bytes read 6543 written 0
+Mar  9 20:58:12 10.71.57.0 acc112613855 [10.71.57.0|get|0|6543|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e362e677a|]
+Mar  9 20:58:12 10.71.57.0 acc112613855 open "/logs/access.log.10.2.gz" flags READ mode 0666
+Mar  9 20:58:12 10.71.57.0 acc112613855 close "/logs/access.log.10.2.gz" bytes read 9725 written 0
+Mar  9 20:58:12 10.71.57.0 acc112613855 [10.71.57.0|get|0|9725|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e322e677a|]
+Mar  9 20:58:12 10.71.57.0 acc112613855 open "/logs/access.log.01.6" flags READ mode 0666
+Mar  9 20:58:12 10.71.57.0 acc112613855 close "/logs/access.log.01.6" bytes read 136105 written 0
+Mar  9 20:58:12 10.71.57.0 acc112613855 [10.71.57.0|get|0|136105|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e36|]
+Mar  9 20:58:12 10.71.57.0 acc112613855 open "/logs/access.log.04.1" flags READ mode 0666
+Mar  9 20:58:12 10.71.57.0 acc112613855 close "/logs/access.log.04.1" bytes read 140092 written 0
+Mar  9 20:58:12 10.71.57.0 acc112613855 [10.71.57.0|get|0|140092|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e31|]
+Mar  9 20:58:12 10.71.57.0 acc112613855 open "/logs/sftp.log" flags READ mode 0666
