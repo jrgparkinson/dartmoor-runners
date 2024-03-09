@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <style>
+    .wrapper {
+      max-width: 80%;
+      @media screen and (max-width: 800px) {
+        max-width: 95%;
+      }
+    }
+  </style>
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div  style="width: 70%; float:left">
+          {{ content }}
+        </div>
+
+        <div style="float:right ; width:28%">
+            <img style="margin-bottom:10px;" src="/assets/winter-2015-small-300x225.jpg" />
+            
+            <img style="margin-bottom:10px;" src="/assets/ControlDog-300x225.jpg" />
+            
+            <img style="margin-bottom:10px;" src="/assets/Moorland-runner-cropped-300x212.jpg" />
+            
+            <img style="margin-bottom:10px;" src="/assets/XmasBash2017Med-300x200.jpg" />
+        </div>
+
+      </div>
+    
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
