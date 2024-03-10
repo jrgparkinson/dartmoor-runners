@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winter Series 2011 Results
+title: Winter Series 2011
 permalink: /Winter Series 2011 Results/
 ---
 <h1>Final results</h1>

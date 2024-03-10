@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer Series 2012 Results
+title: Summer Series 2012
 permalink: /Summer Series 2012 Results/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winter Series 2015 Results
+title: Winter Series 2015
 permalink: /Winter Series 2015 Results/
 ---
 <iframe width='595' height='500' frameborder='0' 

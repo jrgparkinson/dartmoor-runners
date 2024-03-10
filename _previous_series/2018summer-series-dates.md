@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer Series 2018 Dates
+title: Summer Series 2018
 permalink: /Summer Series 2018 Dates/
 ---
 &nbsp;

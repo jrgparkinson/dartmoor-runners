@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer Series 2017 Results
+title: Summer Series 2017
 permalink: /Summer Series 2017 Results/
 ---
 <iframe width='595' height='500' frameborder='0' 
