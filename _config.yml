@@ -52,6 +52,7 @@ images:
   - /assets/2023/400xstreamJump.jpg
   - /assets/2023/400xterrainRunning.jpg
   - /assets/2023/400xterrainRunning2.jpg
+  - /assets/2023/400xGroup2023.jpg
 
 # Number of images to display from the above list (they're picked randomly each time you load the page)
 numImages: 4
