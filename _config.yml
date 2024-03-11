@@ -39,6 +39,24 @@ collections:
   previous_series:
     output: true
 
+images:
+  - /assets/XmasBash2017Med-300x200.jpg
+  - /assets/ControlDog-300x225.jpg
+  - /assets/winter-2015-small-300x225.jpg
+  - /assets/Moorland-runner-cropped-300x212.jpg
+  - /assets/2023/400xgroup.jpg
+  - /assets/2023/400xgroup2.jpg
+  - /assets/2023/400xmistyControl.jpg
+  - /assets/2023/400xpairs.jpg
+  - /assets/2023/400xsingleRunner.jpg
+  - /assets/2023/400xstreamJump.jpg
+  - /assets/2023/400xterrainRunning.jpg
+  - /assets/2023/400xterrainRunning2.jpg
+  - /assets/2023/400xGroup2023.jpg
+
+# Number of images to display from the above list (they're picked randomly each time you load the page)
+numImages: 4
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
