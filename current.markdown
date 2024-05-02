@@ -12,6 +12,7 @@ Still after runs for May and July, don't usually bother with August as people aw
 | -----       | -----                      | -------                        |
 | 7th April   | Leeden Tor CP GR 561708    | Dave Derry                     |
 | 23 June | Shaugh Prior area | Kate Royston |
+| 14 July | Haytor GR770778 | Dawn and Paul |
  
 # We need you!
 Please get in touch with [James Jackson](mailto:jim7205319@gmail.com) if you would like to organise a run for the series.
