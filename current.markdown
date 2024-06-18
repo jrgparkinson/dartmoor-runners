@@ -11,7 +11,7 @@ Still after runs for May and July, don't usually bother with August as people aw
 | Date        | Start                      | Planner                        |
 | -----       | -----                      | -------                        |
 | 7th April   | Leeden Tor CP GR 561708    | Dave Derry                     |
-| 23 June | Shaugh Prior area | Kate Royston |
+| 23 June | Brisworthy Plantation GR 555657 | Kate Royston |
 | 14 July | Haytor GR770778 | Dawn and Paul |
  
 # We need you!
