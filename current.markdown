@@ -12,7 +12,7 @@ google-sheets-id: 2PACX-1vSXNG6_l9_BtpWifF4ypD_TrypSfJl_o6fdz2rJ-5lEX_onGgK5X9-O
 | 10 Nov | Dartmeet | Jake and Becky |
 | 1 Dec | tbc | Lindsay and Alice |
 | 22 Dec | tbc - Christmas Edition | Helen and Jamie |
-| 11/12 Jan | 2 day event! | Adam |
+| 11/12 Jan | Powdermills Bukhouse - 2 day event!  | Adam |
  
 # We need you!
 Please get in touch with [James Jackson](mailto:jim7205319@gmail.com) if you would like to organise a run for the series.
