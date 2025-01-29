@@ -14,7 +14,7 @@ google-sheets-id: 2PACX-1vSXNG6_l9_BtpWifF4ypD_TrypSfJl_o6fdz2rJ-5lEX_onGgK5X9-O
 | 22 Dec | Shipley Bridge SX680628 | Helen and Jamie |
 | 11/12 Jan | Powdermills Bunkhouse - 2 day event!  | Adam |
 | 2 Feb | Emmets Post Car Park, GR 570632 | Harriet |
-| Feb/Mar | TBC | Tim |
+| 23 Feb | Prewley Moor GR547909 | Tim and Patrick |
  
 # We need you!
 Please get in touch with [James Jackson](mailto:jim7205319@gmail.com) if you would like to organise a run for the series.
