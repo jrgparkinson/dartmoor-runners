@@ -3,6 +3,8 @@ layout: home
 title: About
 ---
 
+![end of season score](/assets/30mar25-end-season.jpeg)
+
 Dartmoor Runners events often involve extreme conditions. All runners should be experienced in running over rough terrain and be competent to navigate in bad weather. In poor weather full body cover, map, compass, whistle, hat and gloves should be carried. The organisers cannot be held responsible for a runner’s safety after a runner has left the start. Runners must respect private property and the rights of other moor users during these events. Enclosed land is to be avoided unless crossing on public rights of way. Dogs must always be under close control, and on leads when close to livestock. Runs are planned to minimise disturbance of ground nesting birds during the March-July period – see [map of sensitive areas](http://www.dartmoor.gov.uk/wildlife-and-heritage/wildlife/birds/birds-nesting).
 
 For further information about Dartmoor Runners events, check out our [Facebook page](https://www.facebook.com/DartmoorRunners/).
